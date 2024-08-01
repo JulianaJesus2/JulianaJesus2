@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Boas vindas, este é meu perfil 💙💙
+Meu nome é Juliana de Jesus 
+
+Estou estudando na Alura
+Estou me desenvolvendo em Ecxel e na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos, pois planejo trabalhar com programação e desing gráfico futuramente.
+
+Você pode entrar em contato comigo 📫
+sweetharpoon@gmail.com 
+
+
+É um prazer te ver por aqui! 
 <!--
 **JulianaJesus2/JulianaJesus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
