@@ -1,4 +1,4 @@
-## Hi there 👋
+## Здравствуйте 👋
 
 Boas vindas, este é meu perfil 💙💙
 Meu nome é Juliana de Jesus 
@@ -11,6 +11,9 @@ Estou me desenvolvendo em Ecxel e na linguagem JavaScript
 
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos, pois planejo trabalhar com programação e desing gráfico futuramente.
+
+
+Gosto muito de estudar línguas diferentes, como russo e francês!
 
 
 Você pode entrar em contato comigo 📫
