@@ -7,13 +7,13 @@ Meu nome é Juliana de Jesus
 Estou estudando na Alura
 
 
-Estou me desenvolvendo em Ecxel e na linguagem JavaScript
+Estou me desenvolvendo em Ecxel e na linguagem JavaScript. 📖 ✏️
 
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos, pois planejo trabalhar com programação e desing gráfico futuramente.
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos, pois planejo trabalhar com programação e desing gráfico futuramente. 🎨 💻
 
 
-Gosto muito de estudar línguas diferentes, como russo e francês!
+Gosto muito de estudar línguas diferentes, como russo e francês! 🇷🇺 🇫🇷
 
 
 Você pode entrar em contato comigo 📫
